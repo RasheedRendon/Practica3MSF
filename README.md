@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Erik R. Rendon Carrillo \[20210818]; erik.rendonc201@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
