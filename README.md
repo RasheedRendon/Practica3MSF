@@ -2,7 +2,7 @@
 
 # Práctica: Sistema musculoesquelético
 
-## Información de la estudiante
+## Información del estudiante
 
 Erik R. Rendon Carrillo \[20210818]; erik.rendonc201@tectijuana.edu.mx
 
